@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dekra.ServerAuthentication", "Dekra.ServerAuthentication\Dekra.ServerAuthentication.csproj", "{3104EF00-AD41-45A1-9141-11B61F6DA6C3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dekra.Api", "Dekra.Api\Dekra.Api.csproj", "{AF5A4A9A-6D5F-49E1-9EE4-E742975069E0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Client", "Client\Client.csproj", "{7863AE61-4A67-498D-B4DC-E550AABF6C59}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dekra.Mvc", "Dekra.Mvc\Dekra.Mvc.csproj", "{0BB3585C-0A02-4C00-AD61-877417A00B3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3104EF00-AD41-45A1-9141-11B61F6DA6C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3104EF00-AD41-45A1-9141-11B61F6DA6C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3104EF00-AD41-45A1-9141-11B61F6DA6C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3104EF00-AD41-45A1-9141-11B61F6DA6C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF5A4A9A-6D5F-49E1-9EE4-E742975069E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF5A4A9A-6D5F-49E1-9EE4-E742975069E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF5A4A9A-6D5F-49E1-9EE4-E742975069E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF5A4A9A-6D5F-49E1-9EE4-E742975069E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7863AE61-4A67-498D-B4DC-E550AABF6C59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7863AE61-4A67-498D-B4DC-E550AABF6C59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7863AE61-4A67-498D-B4DC-E550AABF6C59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7863AE61-4A67-498D-B4DC-E550AABF6C59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BB3585C-0A02-4C00-AD61-877417A00B3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BB3585C-0A02-4C00-AD61-877417A00B3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BB3585C-0A02-4C00-AD61-877417A00B3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BB3585C-0A02-4C00-AD61-877417A00B3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EECA0929-42A9-4F69-8495-3E1E85259A13}
+	EndGlobalSection
+EndGlobal

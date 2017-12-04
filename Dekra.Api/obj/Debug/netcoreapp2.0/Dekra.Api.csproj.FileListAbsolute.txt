@@ -1,0 +1,11 @@
+c:\users\paulo.natale\source\repos\Dekra.ServerAuthentication\Dekra.Api\bin\Debug\netcoreapp2.0\Dekra.Api.deps.json
+c:\users\paulo.natale\source\repos\Dekra.ServerAuthentication\Dekra.Api\bin\Debug\netcoreapp2.0\Dekra.Api.runtimeconfig.json
+c:\users\paulo.natale\source\repos\Dekra.ServerAuthentication\Dekra.Api\bin\Debug\netcoreapp2.0\Dekra.Api.runtimeconfig.dev.json
+c:\users\paulo.natale\source\repos\Dekra.ServerAuthentication\Dekra.Api\bin\Debug\netcoreapp2.0\Dekra.Api.dll
+c:\users\paulo.natale\source\repos\Dekra.ServerAuthentication\Dekra.Api\obj\Debug\netcoreapp2.0\Dekra.Api.csproj.CoreCompileInputs.cache
+c:\users\paulo.natale\source\repos\Dekra.ServerAuthentication\Dekra.Api\obj\Debug\netcoreapp2.0\Dekra.Api.AssemblyInfoInputs.cache
+c:\users\paulo.natale\source\repos\Dekra.ServerAuthentication\Dekra.Api\obj\Debug\netcoreapp2.0\Dekra.Api.AssemblyInfo.cs
+c:\users\paulo.natale\source\repos\Dekra.ServerAuthentication\Dekra.Api\obj\Debug\netcoreapp2.0\Dekra.Api.csprojResolveAssemblyReference.cache
+c:\users\paulo.natale\source\repos\Dekra.ServerAuthentication\Dekra.Api\bin\Debug\netcoreapp2.0\Dekra.Api.pdb
+c:\users\paulo.natale\source\repos\Dekra.ServerAuthentication\Dekra.Api\obj\Debug\netcoreapp2.0\Dekra.Api.dll
+c:\users\paulo.natale\source\repos\Dekra.ServerAuthentication\Dekra.Api\obj\Debug\netcoreapp2.0\Dekra.Api.pdb

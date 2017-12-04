@@ -1,0 +1,10 @@
+c:\users\paulo.natale\source\repos\Dekra.ServerAuthentication\Client\bin\Debug\netcoreapp2.0\Client.deps.json
+c:\users\paulo.natale\source\repos\Dekra.ServerAuthentication\Client\bin\Debug\netcoreapp2.0\Client.runtimeconfig.json
+c:\users\paulo.natale\source\repos\Dekra.ServerAuthentication\Client\bin\Debug\netcoreapp2.0\Client.runtimeconfig.dev.json
+c:\users\paulo.natale\source\repos\Dekra.ServerAuthentication\Client\bin\Debug\netcoreapp2.0\Client.dll
+c:\users\paulo.natale\source\repos\Dekra.ServerAuthentication\Client\obj\Debug\netcoreapp2.0\Client.csproj.CoreCompileInputs.cache
+c:\users\paulo.natale\source\repos\Dekra.ServerAuthentication\Client\obj\Debug\netcoreapp2.0\Client.AssemblyInfoInputs.cache
+c:\users\paulo.natale\source\repos\Dekra.ServerAuthentication\Client\obj\Debug\netcoreapp2.0\Client.AssemblyInfo.cs
+c:\users\paulo.natale\source\repos\Dekra.ServerAuthentication\Client\bin\Debug\netcoreapp2.0\Client.pdb
+c:\users\paulo.natale\source\repos\Dekra.ServerAuthentication\Client\obj\Debug\netcoreapp2.0\Client.dll
+c:\users\paulo.natale\source\repos\Dekra.ServerAuthentication\Client\obj\Debug\netcoreapp2.0\Client.pdb

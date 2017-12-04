@@ -1,0 +1,10 @@
+c:\users\paulo.natale\source\repos\Dekra.ServerAuthentication\Dekra.Mvc\bin\Debug\netcoreapp2.0\Dekra.Mvc.deps.json
+c:\users\paulo.natale\source\repos\Dekra.ServerAuthentication\Dekra.Mvc\bin\Debug\netcoreapp2.0\Dekra.Mvc.runtimeconfig.json
+c:\users\paulo.natale\source\repos\Dekra.ServerAuthentication\Dekra.Mvc\bin\Debug\netcoreapp2.0\Dekra.Mvc.runtimeconfig.dev.json
+c:\users\paulo.natale\source\repos\Dekra.ServerAuthentication\Dekra.Mvc\bin\Debug\netcoreapp2.0\Dekra.Mvc.dll
+c:\users\paulo.natale\source\repos\Dekra.ServerAuthentication\Dekra.Mvc\bin\Debug\netcoreapp2.0\Dekra.Mvc.pdb
+c:\users\paulo.natale\source\repos\Dekra.ServerAuthentication\Dekra.Mvc\obj\Debug\netcoreapp2.0\Dekra.Mvc.csproj.CoreCompileInputs.cache
+c:\users\paulo.natale\source\repos\Dekra.ServerAuthentication\Dekra.Mvc\obj\Debug\netcoreapp2.0\Dekra.Mvc.AssemblyInfoInputs.cache
+c:\users\paulo.natale\source\repos\Dekra.ServerAuthentication\Dekra.Mvc\obj\Debug\netcoreapp2.0\Dekra.Mvc.AssemblyInfo.cs
+c:\users\paulo.natale\source\repos\Dekra.ServerAuthentication\Dekra.Mvc\obj\Debug\netcoreapp2.0\Dekra.Mvc.dll
+c:\users\paulo.natale\source\repos\Dekra.ServerAuthentication\Dekra.Mvc\obj\Debug\netcoreapp2.0\Dekra.Mvc.pdb
